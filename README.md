@@ -66,7 +66,7 @@ After comparing their performance, **XGBRFClassifier** gave the best results.
 
 ---
 
-##Final Outcome
+## Final Outcome
 
 - A sentiment classifier that can predict whether a review (product or movie) is **positive** or **negative** or **neutral**.
 - All steps from preprocessing to prediction are integrated in a single pipeline for ease of deployment or further experimentation.
